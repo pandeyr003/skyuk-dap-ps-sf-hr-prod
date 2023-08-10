@@ -1,0 +1,6 @@
+name: skyuk-dap-peoplesoft-hr-prod
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Peoplesoft SKY Project

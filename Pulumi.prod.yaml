@@ -1,0 +1,6 @@
+config:
+  azure-native:location: uksouth
+  skyuk-dap-peoplesoft-hr-prod:dbpassword:
+    secure: AAABAKfZ8BVhbjlCvPaI9+k1DDdYDWKHl4S4o68Q9m/kdK0L3QlZEVUFHhBaTd9/UjOVmJK8EuSVj1U=
+  skyuk-dap-peoplesoft-hr-prod:dbpassword1:
+    secure: AAABABB3dWeBCbkxYCoR/kCMou8bSm6QLrmogeK7yHyDVBz8U2V80zi9Tg+BPGm0gx+o2CdHjnY=
